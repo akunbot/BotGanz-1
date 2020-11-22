@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'мт вот'; 
+const BotName = 'BоT GаиZ'; 
 const instagram = '-'; 
 const telegram = '-'; 
 const kapanbotaktif = 'KETIKA DIAKTIFKAN YA:)'; 
@@ -166,12 +166,6 @@ conn.sendMessage(id, tambahan.bro ,MessageType.text);
 else if (text == 'TEST')
 {
   conn.sendMessage(id, tambahan.test, MessageType.text);
-}
-else if (text == 'mksh')
-conn.sendMessage(id, tambahan.mksh ,MessageType.text);
-{
-else if (text == 'MKSH')
-conn.sendMessage(id, tambahna.mksh ,MessageType:text;
 }
 // Fitur
 if(text.includes("!cek")){
