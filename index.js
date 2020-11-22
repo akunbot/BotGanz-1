@@ -14,10 +14,10 @@ const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
 const BotName = 'BоT GаиZ'; 
-const instagram = '-'; 
+const instagram = '@iam.cimots'; 
 const telegram = '-'; 
 const kapanbotaktif = 'KETIKA DIAKTIFKAN YA:)'; 
-const youtube = '-';
+const youtube = 'LIMITE CISHIE';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
